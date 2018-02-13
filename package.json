@@ -1,0 +1,24 @@
+{
+  "name": "socket.io_chat_app",
+  "version": "1.0.0",
+  "description": "A Socket.io Chat App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanyaismail/Socket.io_Chat_App.git"
+  },
+  "author": "Ismail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanyaismail/Socket.io_Chat_App/issues"
+  },
+  "homepage": "https://github.com/hanyaismail/Socket.io_Chat_App#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2",
+    "socket.io": "^2.0.4"
+  }
+}
